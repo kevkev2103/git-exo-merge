@@ -1,4 +1,4 @@
 A = A
-Q = Q
-D = D
+B = B
+C = C
 
